@@ -10,7 +10,7 @@ The version 2 of this plugin now supports bootstrap 4 and `contenteditable` that
 ## Install
 Several quick start options are available:
 
-- [npm](https://www.npmjs.com/package/@w8tcha/bootstrap-suggest): `npm install --save @w8tcha/bootstrap-suggestt`
+- [npm](https://www.npmjs.com/package/@w8tcha/bootstrap-suggest): `npm install --save @w8tcha/bootstrap-suggest`
 
 ** Make sure to link `bootstrap-suggest.js` and `bootstrap-suggest.css` to your project
 
