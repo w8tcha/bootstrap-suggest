@@ -10,9 +10,7 @@ The version 2 of this plugin now supports bootstrap 4 and `contenteditable` that
 ## Install
 Several quick start options are available:
 
-- [download](https://github.com/lodev09/bootstrap-suggest/archive/v2.0.2.zip) latest release
-- [npm](https://www.npmjs.com/package/bootstrap-suggest): `npm install --save bootstrap-suggest`
-- [bower](https://bower.io): `bower install bootstrap-suggest`
+- [npm](https://www.npmjs.com/package/@w8tcha/bootstrap-suggest): `npm install --save @w8tcha/bootstrap-suggestt`
 
 ** Make sure to link `bootstrap-suggest.js` and `bootstrap-suggest.css` to your project
 
