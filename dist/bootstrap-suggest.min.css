@@ -1,0 +1,5 @@
+/*!
+ * bootstrap-suggest -  v2.1.1 (https://github.com/w8tcha/bootstrap-suggest#readme)
+ * Copyright 2013-2023 Jovanni Lo (lodev09@gmail.com)
+ * Licensed under MIT (https://github.com/lodev09/@w8tcha/bootstrap-suggest/blob/master/LICENSE)
+ */.suggest{top:7px;z-index:30;text-align:left}.suggest>.dropdown-menu{margin-top:15px;position:absolute}.suggest>.dropdown-menu>a.dropdown-item{border-top:1px solid #eee;padding:5px 10px}.suggest>.dropdown-menu>a.dropdown-item:first-child{border-top:0}

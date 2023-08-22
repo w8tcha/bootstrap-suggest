@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-suggest",
-  "version": "2.1.0",
+  "name": "@w8tcha/bootstrap-suggest",
+  "version": "2.1.1",
   "description": "A bootstrap plugin for your mention needs.",
   "style": "dist/bootstrap-suggest.css",
   "sass": "src/bootstrap-suggest.scss",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lodev09/bootstrap-suggest.git"
+    "url": "git+https://github.com/w8tcha/bootstrap-suggest.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,22 +22,26 @@
   "author": "Jovanni Lo (lodev09@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lodev09/bootstrap-suggest/issues"
+    "url": "https://github.com/w8tcha/bootstrap-suggest/issues"
   },
-  "homepage": "https://github.com/lodev09/bootstrap-suggest#readme",
+  "homepage": "https://github.com/w8tcha/bootstrap-suggest#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.0",
     "jquery.caret": "^0.3"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "6.0.0",
-    "gulp-clean-css": "3.10.0",
-    "gulp-header": "2.0.5",
-    "gulp-rename": "1.4.0",
-    "gulp-sass": "4.0.1",
-    "gulp-uglify": "3.0.1"
+    "@lodder/grunt-postcss": "^3.1.1",
+    "@w8tcha/grunt-dev-update": "^2.3.1",
+    "autoprefixer": "^10.4.15",
+    "grunt": "^1.6.1",
+    "grunt-contrib-cssmin": "^5.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-header": "^1.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "postcss": "^8.4.28",
+    "sass": "^1.66.1"
   }
 }
