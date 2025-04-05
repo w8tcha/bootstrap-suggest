@@ -1,6 +1,6 @@
 /*!
  * bootstrap-suggest -  v2.1.1 (https://github.com/w8tcha/bootstrap-suggest#readme)
- * Copyright 2013-2023 Jovanni Lo (lodev09@gmail.com)
+ * Copyright 2013-2025 Jovanni Lo (lodev09@gmail.com)
  * Licensed under MIT (https://github.com/lodev09/@w8tcha/bootstrap-suggest/blob/master/LICENSE)
  */
 
